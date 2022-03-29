@@ -4,7 +4,7 @@
 	
   </div>
 
-![Shay's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin4821&show_icons=true&theme=cobalt)
+![Shay's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin4821&show_icons=true&theme=highcontrast)
 
 
 
